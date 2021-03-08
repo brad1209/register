@@ -1,1 +1,13 @@
-
+{
+  "description": "Ling is a dev",
+  "repo": "https://github.com/brad1209",
+  "owner": {
+    "username": "brad1209",
+    "email": "ling.nyc@protonmail.com"
+  },
+  "record": {
+    "A": [
+      "198.251.83.98"
+    ]
+  }
+}
